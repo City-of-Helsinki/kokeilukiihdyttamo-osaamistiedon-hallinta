@@ -1,0 +1,1 @@
+# kokeilukiihdyttamo-osaamistiedon-hallinta
